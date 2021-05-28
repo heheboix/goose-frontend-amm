@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.peachdefi.com/',
+        href: 'https://jovial-almeida-d8d825.netlify.app/',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.peachdefi.com/#/pool',
+        href: 'https://jovial-almeida-d8d825.netlify.app/#/pool',
       },
     ],
   },
